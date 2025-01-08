@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi there! I'm Midhun Bose, a passionate AI/ML enthusiast and a recent postgraduate in Artificial Intelligence and Machine Learning. 🚀
 
-<!--
-**Mithoon278/Mithoon278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **What I Do**:
+- 👩‍💻 Building innovative solutions in AI, Machine Learning, and Data Science.
+- 🔬 Exploring cutting-edge Generative AI and MLOps pipelines.
+- 📊 Crafting intelligent systems for computer vision, NLP, and predictive modeling.
 
-Here are some ideas to get you started:
+🌍 **Tools & Technologies**:
+- Python, TensorFlow, PyTorch, SQL, NumPy, Pandas
+- Visualization: Power BI, Tableau
+- Cloud & Deployment: AWS (EC2, S3, ECR), Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**:
+- MSc in Artificial Intelligence & Machine Learning, Mahatma Gandhi University, Kerala
+
+💡 **What I’m Working On**:
+- Building MLOps pipelines for scalable and efficient AI model deployment.
+- Exploring Generative AI projects like document question-answering and AI-driven fashion design tools.
+
+📈 **What Drives Me**:
+- My passion for combining AI/ML technologies with real-world problem-solving.
+- Learning and experimenting with new tools, frameworks, and innovative ideas.
+
+📫 **Let's Connect**:
+- Email: midhunbose2017@gmail.com
+- LinkedIn: [linkedin.com/in/midhun-bose](https://linkedin.com/in/midhun-bose)
